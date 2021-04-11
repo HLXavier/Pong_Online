@@ -3,7 +3,7 @@ import pygame
 
 class Player:
     def __init__(self, x, y, width, height):
-        self.speed = 3
+        self.speed = 6
         self.x = x
         self.y = y
         self.width = width
